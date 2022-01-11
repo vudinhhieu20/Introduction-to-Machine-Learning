@@ -1,0 +1,7 @@
+googleapiclient
+sklearn
+seaborn
+numpy
+matplotlib
+wordcloud
+pandas
