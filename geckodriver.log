@@ -1,0 +1,213 @@
+1650448631353	geckodriver	INFO	Listening on 127.0.0.1:34511
+1650448631864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUN0Gky"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650448632464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUN0Gky/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54347/devtools/browser/90ec193f-2422-4c6a-933a-15c263e4613b
+1650448633428	Marionette	INFO	Listening on port 41545
+Read port: 41545
+1650448633476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650448634939	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T09:57:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:57:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:58:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T09:59:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650448853235	geckodriver	INFO	Listening on 127.0.0.1:34235
+1650448853737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOr0Yf6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650448854348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOr0Yf6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47387/devtools/browser/b495fc60-d0fa-465e-bebb-d03687ab3eb6
+1650448855259	Marionette	INFO	Listening on port 45391
+Read port: 45391
+1650448855356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650448856722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:00:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:00:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:00:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:00:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650448857461	Marionette	INFO	Stopped listening on port 45391
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650448861838	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1650448875958	geckodriver	INFO	Listening on 127.0.0.1:51231
+1650448876469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei4Ki8z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650448877065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei4Ki8z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44405/devtools/browser/878d47e1-eda4-4a8f-9582-47c9257e9fb1
+1650448878010	Marionette	INFO	Listening on port 38051
+Read port: 38051
+1650448878085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650448879709	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:01:19Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:01:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:02:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:02:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:02:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:02:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:03:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:03:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:03:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:03:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:04:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:04:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:04:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:04:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:45Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:45Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:45Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:45Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:05:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650449243541	geckodriver	INFO	Listening on 127.0.0.1:41091
+1650449244051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVEbWNX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650449244635	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVEbWNX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42435/devtools/browser/844f26e7-3ac4-4c11-bbbc-5356aa01e8e3
+1650449245539	Marionette	INFO	Listening on port 46725
+Read port: 46725
+1650449245567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[2022-04-20T10:08:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:08:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:08:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:08:25Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650449305724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:09:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:09:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:09:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:09:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:10:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:11:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:11:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:11:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:11:23Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:12:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:12:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:12:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:12:28Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:13:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650449735701	geckodriver	INFO	Listening on 127.0.0.1:32965
+1650449736212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNBdfHo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650449736811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNBdfHo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37831/devtools/browser/47444609-865a-4f03-a8dd-fc2537ab55ed
+1650449737867	Marionette	INFO	Listening on port 36455
+Read port: 36455
+1650449737928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650449739551	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:15:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:15:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:15:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:15:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:03Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:16:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650449932560	geckodriver	INFO	Listening on 127.0.0.1:54905
+1650449933063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledcMR8r"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650449933734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledcMR8r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42143/devtools/browser/b53fcf2b-4205-4e03-baef-5a5b861ccb95
+1650449934734	Marionette	INFO	Listening on port 33323
+Read port: 33323
+1650449934778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650449936802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:18:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:18:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:18:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:18:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:19:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:19:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:19:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:19:21Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1650450058253	geckodriver	INFO	Listening on 127.0.0.1:32927
+1650450058756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOKgYr1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650450059416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOKgYr1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44037/devtools/browser/d905b20f-eaaf-4fea-b988-05f141242055
+1650450060413	Marionette	INFO	Listening on port 39377
+Read port: 39377
+1650450060468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650450062293	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-04-20T10:21:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-04-20T10:21:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"

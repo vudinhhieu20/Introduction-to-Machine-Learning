@@ -12,16 +12,16 @@ from webdriver_manager.firefox import GeckoDriverManager
 import csv
 
 listSearchURLs = [
-    'https://www.youtube.com/results?search_query=%C3%A2m+nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # âm nhạc
-    'https://www.youtube.com/results?search_query=ca+nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # ca nhạc
-    'https://www.youtube.com/results?search_query=nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # nhạc
-    'https://www.youtube.com/results?search_query=ca+kh%C3%BAc&sp=EgIIBQ%253D%253D', #ca khúc
-    'https://www.youtube.com/results?search_query=mv+official&sp=EgIIBQ%253D%253D', # mv official
+    # 'https://www.youtube.com/results?search_query=%C3%A2m+nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # âm nhạc
+    # 'https://www.youtube.com/results?search_query=ca+nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # ca nhạc
+    # 'https://www.youtube.com/results?search_query=nh%E1%BA%A1c&sp=EgIIBQ%253D%253D', # nhạc
+    # 'https://www.youtube.com/results?search_query=ca+kh%C3%BAc&sp=EgIIBQ%253D%253D', #ca khúc
+    # 'https://www.youtube.com/results?search_query=mv+official&sp=EgIIBQ%253D%253D', # mv official
     'https://www.youtube.com/results?search_query=music+video&sp=EgIIBQ%253D%253D', # music video
     'https://www.youtube.com/results?search_query=official+video&sp=EgIIBQ%253D%253D' # official video
 ]
 browser = webdriver.Firefox(executable_path=GeckoDriverManager().install())
-f = open('scraping_data.txt', 'a+', encoding='utf-8')
+f = open('scraping_data_02.txt', 'a+', encoding='utf-8')
 
 for url in listSearchURLs:
     browser.get(url)
