@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ### Crawl data
 
 ```bash
-python scraping_info_data_youtube.py
+python youtube_scraping.py
 ```
 
 ### Data Analysis
